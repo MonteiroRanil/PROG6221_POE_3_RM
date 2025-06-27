@@ -14,3 +14,5 @@ chatbot functions
 12) NLP
 13) activity log
 14) reminder and addition of task
+15) https://github.com/MonteiroRanil/PROG6221_POE_3_RM.git
+16) https://youtu.be/nBfiF7yTC1g
